@@ -1,0 +1,7 @@
+C:\GitHubDesktop\MulttableByDiapazonParallel\bin\Debug\MulttableByDiapazonParallel.exe.config
+C:\GitHubDesktop\MulttableByDiapazonParallel\bin\Debug\MulttableByDiapazonParallel.exe
+C:\GitHubDesktop\MulttableByDiapazonParallel\bin\Debug\MulttableByDiapazonParallel.pdb
+C:\GitHubDesktop\MulttableByDiapazonParallel\obj\Debug\MulttableByDiapazonParallel.csproj.AssemblyReference.cache
+C:\GitHubDesktop\MulttableByDiapazonParallel\obj\Debug\MulttableByDiapazonParallel.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\MulttableByDiapazonParallel\obj\Debug\MulttableByDiapazonParallel.exe
+C:\GitHubDesktop\MulttableByDiapazonParallel\obj\Debug\MulttableByDiapazonParallel.pdb
